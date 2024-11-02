@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Latasharma26/Array/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Latasharma26/Array/tree/master/0189-rotate-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Latasharma26/Array/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2554-minimum-total-distance-traveled](https://github.com/Latasharma26/Array/tree/master/2554-minimum-total-distance-traveled) |
 ## Dynamic Programming
@@ -24,4 +25,9 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Latasharma26/Array/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Latasharma26/Array/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Latasharma26/Array/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
