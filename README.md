@@ -20,6 +20,7 @@
 ## String
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/Latasharma26/Array/tree/master/0812-rotate-string) |
 | [2580-circular-sentence](https://github.com/Latasharma26/Array/tree/master/2580-circular-sentence) |
 ## Two Pointers
 |  |
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Latasharma26/Array/tree/master/0189-rotate-array) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Latasharma26/Array/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
