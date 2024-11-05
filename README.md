@@ -22,6 +22,7 @@
 | ------- |
 | [0812-rotate-string](https://github.com/Latasharma26/Array/tree/master/0812-rotate-string) |
 | [2580-circular-sentence](https://github.com/Latasharma26/Array/tree/master/2580-circular-sentence) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Latasharma26/Array/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/Latasharma26/Array/tree/master/3451-string-compression-iii) |
 ## Two Pointers
 |  |
