@@ -12,6 +12,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Latasharma26/Array/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2554-minimum-total-distance-traveled](https://github.com/Latasharma26/Array/tree/master/2554-minimum-total-distance-traveled) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Latasharma26/Array/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Latasharma26/Array/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/Latasharma26/Array/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Latasharma26/Array/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Latasharma26/Array/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Latasharma26/Array/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Latasharma26/Array/tree/master/3394-minimum-array-end) |
 ## Hash Table
 |  |
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/Latasharma26/Array/tree/master/1940-maximum-xor-for-each-query) |
+## Sliding Window
+|  |
+| ------- |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Latasharma26/Array/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 <!---LeetCode Topics End-->
