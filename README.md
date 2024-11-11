@@ -11,6 +11,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/Latasharma26/Array/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Latasharma26/Array/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2554-minimum-total-distance-traveled](https://github.com/Latasharma26/Array/tree/master/2554-minimum-total-distance-traveled) |
+| [2716-prime-subtraction-operation](https://github.com/Latasharma26/Array/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Latasharma26/Array/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Latasharma26/Array/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Dynamic Programming
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Latasharma26/Array/tree/master/0189-rotate-array) |
+| [2716-prime-subtraction-operation](https://github.com/Latasharma26/Array/tree/master/2716-prime-subtraction-operation) |
 ## String Matching
 |  |
 | ------- |
@@ -66,4 +68,16 @@
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Latasharma26/Array/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/Latasharma26/Array/tree/master/2716-prime-subtraction-operation) |
+## Greedy
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/Latasharma26/Array/tree/master/2716-prime-subtraction-operation) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/Latasharma26/Array/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
