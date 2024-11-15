@@ -7,6 +7,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Latasharma26/Array/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Latasharma26/Array/tree/master/0189-rotate-array) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Latasharma26/Array/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Latasharma26/Array/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1940-maximum-xor-for-each-query](https://github.com/Latasharma26/Array/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Latasharma26/Array/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Latasharma26/Array/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Latasharma26/Array/tree/master/0189-rotate-array) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Latasharma26/Array/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Latasharma26/Array/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Latasharma26/Array/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Latasharma26/Array/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2716-prime-subtraction-operation](https://github.com/Latasharma26/Array/tree/master/2716-prime-subtraction-operation) |
@@ -85,4 +88,12 @@
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/Latasharma26/Array/tree/master/2716-prime-subtraction-operation) |
+## Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Latasharma26/Array/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Latasharma26/Array/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
