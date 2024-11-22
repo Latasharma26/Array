@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Latasharma26/Array/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Latasharma26/Array/tree/master/0189-rotate-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Latasharma26/Array/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Latasharma26/Array/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Latasharma26/Array/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Latasharma26/Array/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Latasharma26/Array/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -65,6 +66,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Latasharma26/Array/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Latasharma26/Array/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Latasharma26/Array/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Latasharma26/Array/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -124,6 +126,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Latasharma26/Array/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Latasharma26/Array/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
 |  |
