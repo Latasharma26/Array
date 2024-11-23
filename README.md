@@ -13,6 +13,7 @@
 | [1755-defuse-the-bomb](https://github.com/Latasharma26/Array/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Latasharma26/Array/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1940-maximum-xor-for-each-query](https://github.com/Latasharma26/Array/tree/master/1940-maximum-xor-for-each-query) |
+| [1972-rotating-the-box](https://github.com/Latasharma26/Array/tree/master/1972-rotating-the-box) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Latasharma26/Array/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Latasharma26/Array/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Latasharma26/Array/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -46,6 +47,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Latasharma26/Array/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Latasharma26/Array/tree/master/0189-rotate-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Latasharma26/Array/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1972-rotating-the-box](https://github.com/Latasharma26/Array/tree/master/1972-rotating-the-box) |
 ## Math
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Latasharma26/Array/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1972-rotating-the-box](https://github.com/Latasharma26/Array/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Latasharma26/Array/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
 |  |
