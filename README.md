@@ -30,6 +30,7 @@
 | [2716-prime-subtraction-operation](https://github.com/Latasharma26/Array/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Latasharma26/Array/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Latasharma26/Array/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3427-special-array-ii](https://github.com/Latasharma26/Array/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Latasharma26/Array/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Dynamic Programming
 |  |
@@ -105,6 +106,7 @@
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Latasharma26/Array/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/Latasharma26/Array/tree/master/1940-maximum-xor-for-each-query) |
+| [3427-special-array-ii](https://github.com/Latasharma26/Array/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Latasharma26/Array/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Latasharma26/Array/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Latasharma26/Array/tree/master/2716-prime-subtraction-operation) |
+| [3427-special-array-ii](https://github.com/Latasharma26/Array/tree/master/3427-special-array-ii) |
 ## Greedy
 |  |
 | ------- |
